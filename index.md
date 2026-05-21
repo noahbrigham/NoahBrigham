@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at UCSC
+I am a M.S. student at UCSC
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
+- **U-series dating:** U-Th dating, U-series methods, TIMS
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## News
